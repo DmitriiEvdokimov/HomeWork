@@ -228,6 +228,13 @@ following command to amend the other files and folders.
 
 *git pull --verbose*
 
+## Слияние удалённого репозитория с локальным
+
+Слияние удалённого репозитория с локальным выполняется параметром merge с указанием имени удалённого репозитория.
+
+*git merge origin*
+
+
 
 
 
