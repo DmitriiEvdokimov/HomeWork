@@ -238,7 +238,7 @@ following command to amend the other files and folders.
 
 Чтобы избавиться от удалённой ветки, используйте параметр push с флагом --delete, указав имя удалённого репозитория и имя ветки.
 
-*git push --delete origin existing_branch*
+*git push --delete origin existing_branch* 
 
 
 
