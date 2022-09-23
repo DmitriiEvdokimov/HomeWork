@@ -234,6 +234,11 @@ following command to amend the other files and folders.
 
 *git merge origin*
 
+## Отправка новой ветки в удалённый репозиторий
+
+Передать новую ветку в удалённый репозиторий можно параметром push с флагом -u, указав имя репозитория и имя ветки.
+
+*git push -u origin new_branch*
 
 
 
