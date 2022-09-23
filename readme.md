@@ -243,7 +243,4 @@ following command to amend the other files and folders.
 
 
 
-
-
-
 Информация взята с ресурса https://habr.com/ru/company/ruvds/blog/599929/
